@@ -1,7 +1,8 @@
 # Magma-with-bazel
 
-```bash
 Git clone magma repo
+```bash
+https://github.com/magma/magma.git
 ```
 Set Env - vim /etc/environment 
 ```bash
